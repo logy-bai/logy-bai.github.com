@@ -17,3 +17,5 @@ tags: [GitHub, Pages, Blog, Jekyll-Bootstrap]
 
 ###3分钟在GitHub-Pages上搭建自己的博客
 [Jekyll快速开始](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<br />
+---
