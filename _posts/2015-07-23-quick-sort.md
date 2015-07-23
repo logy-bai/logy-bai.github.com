@@ -2,7 +2,7 @@
 layout: post
 title: "快速排序思想及Java实现"
 description: ""
-category: 算法 
+category: Algorithm
 tags: [Algorithm,quick sort,sort]
 ---
 {% include JB/setup %}

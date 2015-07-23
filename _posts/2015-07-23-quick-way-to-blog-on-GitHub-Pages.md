@@ -3,7 +3,7 @@ layout: post
 title: "在GitHub Pages上快速搭建自己的博客"
 description: "This is my first GitHub-Pages article."
 tagline: "Quick way to blog on GitHub-Pages"
-category: 杂项技术
+category: GitHub
 tags: [GitHub, Pages, Blog, Jekyll-Bootstrap]
 ---
 {% include JB/setup %}
