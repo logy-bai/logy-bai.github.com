@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人简历
-tagline: Resume
+title: About me
+tagline: Stay hungry, stay foolish.
 ---
 {% include JB/setup %}

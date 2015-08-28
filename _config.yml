@@ -8,10 +8,10 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : logybai
-tagline: Site Tagline
+title : Venus
+tagline: Stay hungry, stay foolish
 author :
-  name : bai xiaoqiang
+  name : Venus
   email : logybai@gmail.com
   github : logy-bai
   feedburner : feedname
@@ -103,7 +103,7 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-65521963-1'
     getclicky :
       site_id : 
     mixpanel :
